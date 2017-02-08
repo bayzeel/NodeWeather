@@ -1,0 +1,23 @@
+{
+  "name": "node_weather",
+  "version": "1.0.0",
+  "description": "Simple Node Weather App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bayzeel/NodeWeather.git"
+  },
+  "author": "Basil Sklepkovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bayzeel/NodeWeather/issues"
+  },
+  "homepage": "https://github.com/bayzeel/NodeWeather#readme",
+  "dependencies": {
+    "request": "^2.79.0",
+    "yargs": "^4.8.1"
+  }
+}
